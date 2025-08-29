@@ -19,10 +19,10 @@ An **end-to-end deep learning project** to classify kidney CT scan images as **h
 
 ##  Project Structure
 
-- ├── app/ # Flask application files
-- ├── data/ # Dataset (CT scan images)
-- ├── notebooks/ # Jupyter notebooks for EDA and model training
-- ├── models/ # Trained model files
-- ├── requirements.txt # Python dependencies
-- ├── README.md
-- └── run.py # Flask app runner
+├── app/ # Flask application files
+├── data/ # Dataset (CT scan images)
+├── notebooks/ # Jupyter notebooks for EDA and model training
+├── models/ # Trained model files
+├── requirements.txt # Python dependencies
+├── README.md
+└── run.py # Flask app runner
