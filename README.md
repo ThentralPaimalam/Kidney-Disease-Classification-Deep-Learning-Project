@@ -1,4 +1,4 @@
-# 🩺 Kidney Disease Classification Using Deep Learning
+#  Kidney Disease Classification Using Deep Learning
 
 [![Python](https://img.shields.io/badge/Python-3.8-blue)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)](https://www.tensorflow.org/)
@@ -8,7 +8,7 @@ An **end-to-end deep learning project** to classify kidney CT scan images as **h
 
 ---
 
-## 🔥 Features
+## Features
 
 - **Transfer Learning with VGG16** for accurate and efficient kidney image classification.  
 - **Data Preprocessing & Augmentation** to improve model robustness and reduce overfitting.  
@@ -17,5 +17,12 @@ An **end-to-end deep learning project** to classify kidney CT scan images as **h
 
 ---
 
-## 🗂 Project Structure
+##  Project Structure
 
+- ├── app/ # Flask application files
+- ├── data/ # Dataset (CT scan images)
+- ├── notebooks/ # Jupyter notebooks for EDA and model training
+- ├── models/ # Trained model files
+- ├── requirements.txt # Python dependencies
+- ├── README.md
+- └── run.py # Flask app runner
