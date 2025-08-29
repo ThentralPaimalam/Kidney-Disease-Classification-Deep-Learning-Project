@@ -23,8 +23,28 @@ An **end-to-end deep learning project** to classify kidney CT scan images as **h
 
 
 ├── data/ # Dataset (CT scan images)
+
+
 ├── notebooks/ # Jupyter notebooks for EDA and model training
+
+
 ├── models/ # Trained model files
+
+
 ├── requirements.txt # Python dependencies
+
+
 ├── README.md
+
+
 └── run.py # Flask app runner
+
+
+<img width="1779" height="789" alt="Screenshot 2025-06-15 154438" src="https://github.com/user-attachments/assets/7f819f0e-a59b-4836-a8e6-fba52d359f6b" />
+
+<img width="1869" height="842" alt="Screenshot 2025-06-15 154011" src="https://github.com/user-attachments/assets/9cdf441d-a0dc-41b3-9e00-263a55f79411" />
+
+<img width="940" height="902" alt="Screenshot 2025-06-17 231544" src="https://github.com/user-attachments/assets/f3598c5d-3eca-4a4a-81c0-1eecaec87c49" />
+
+<img width="815" height="727" alt="Screenshot 2025-06-17 232203" src="https://github.com/user-attachments/assets/340e7666-c196-417e-ab5b-4b86bfb33340" />
+
